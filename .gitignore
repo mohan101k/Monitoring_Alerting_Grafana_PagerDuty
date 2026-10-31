@@ -1,5 +1,0 @@
-*.log
-.env
-*.pem
-*.key
-secrets/
